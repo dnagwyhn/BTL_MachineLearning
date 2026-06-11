@@ -1,4 +1,4 @@
-# Bài Tập Lớn Cuối Kỳ Môn Học Máy (Machine Learning Final Project)
+# Bài Tập Lớn Cuối Kỳ Môn Học Máy (Machine Learning Project)
 
 Repository này lưu trữ mã nguồn, dữ liệu và báo cáo kết quả thực hiện bài tập lớn cuối kỳ môn Học máy. Dự án bao gồm hai bài toán kinh điển trong Machine Learning: **Hồi quy tuyến tính (Linear Regression)** và **Phân loại nhị phân (Binary Classification)**.
 
