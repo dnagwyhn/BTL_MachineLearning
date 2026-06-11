@@ -1,3 +1,16 @@
+# Bài Tập Lớn Cuối Kỳ Môn Học Máy (Machine Learning Final Project)
+
+Repository này lưu trữ mã nguồn, dữ liệu và báo cáo kết quả thực hiện bài tập lớn cuối kỳ môn Học máy. Dự án bao gồm hai bài toán kinh điển trong Machine Learning: **Hồi quy tuyến tính (Linear Regression)** và **Phân loại nhị phân (Binary Classification)**.
+
+## 📂 Cấu trúc Repository
+
+- `BTL_HoiQuyTuyenTinh_final.ipynb`: Jupyter Notebook thực hiện phân tích, huấn luyện và đánh giá mô hình cho bài toán dự đoán giá nhà.
+- `BTL_PhanLoaiNhiPhan_final.ipynb`: Jupyter Notebook thực hiện xử lý dữ liệu, tối ưu siêu tham số và huấn luyện mô hình cho bài toán phát hiện giao dịch gian lận.
+- `USA_Housing.csv`: Bộ dữ liệu sử dụng cho bài toán hồi quy tuyến tính.
+- `credit_card_fraud_synthetic.csv`: Bộ dữ liệu tổng hợp sử dụng cho bài toán phân loại nhị phân.
+
+---
+
 ## 🚀 Chi tiết các bài toán
 
 ### 1. Dự đoán giá nhà (Hồi quy tuyến tính)
